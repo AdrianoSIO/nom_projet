@@ -6,6 +6,8 @@
         <li class="navigation-item"><a class="navigation-link" href="collège">Collège</a></li>
         <li class="navigation-item"><a class="navigation-link" href="resultat">Résultat</a></li>
         <li class="navigation-item"><a class="navigation-link" href="mentions">Mentions Légales</a></li>
+        <li class="navigation-item"><a class="navigation-link" href="role">Rôle</a></li>
+        <li class="navigation-item"><a class="navigation-link" href="genre">Genre</a></li>
         
       </ul>
 </nav>
