@@ -30,9 +30,10 @@ class TestController extends Controller
         return view('resultat');
     }
     function role(){
-        return view('resultat');
+        return view('role');
     }
     function genre(){
+        return view('genre');
 
     }
 }
